@@ -7,7 +7,7 @@
       "Robin van Baalen <robin@neverwoods.com>"
   ],
   "description": "This 'shim' lets [rel='external'] behave like the deprecated [target='_blank']",
-  "main": "dest/externallink.js",
+  "main": "dist/externallink.js",
   "moduleType": [
     "globals"
   ],
